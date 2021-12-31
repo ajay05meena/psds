@@ -1,0 +1,1 @@
+Find largest element in the array [1, 2, 54, 39, 42, 35] => 54
